@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="MensajeFragmento1">Bienvenido a mi aplicación</string>
+    <string name="MensajeFragmento2">Bienvenido otra vez</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento1">Fragmento 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento2">Fragmento 2</string>
+</resources>
